@@ -41,7 +41,7 @@ const Layout = ({ children }) => {
         >
           © {new Date().getFullYear()}, Coinginner
           {` `}
-          <a href="https://github.com/congnguyendinh0/coinginner://www.gatsbyjs.com">Gatsby</a>
+          <a href="https://github.com/congnguyendinh0/coinginner">Coinginner</a>
         </footer>
       </div>
     </>
