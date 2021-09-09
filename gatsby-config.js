@@ -3,7 +3,7 @@ module.exports = {
     title: `Coinginner `,
     description: `Coinginner`,
     author: `@congnguyendinh0`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    siteUrl: `https://coinginner.com/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -33,6 +33,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
-    `gatsby-plugin-material-ui`
+  
   ],
 }
